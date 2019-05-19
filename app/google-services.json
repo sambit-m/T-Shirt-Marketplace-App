@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824109865468",
+    "firebase_url": "https://watt-sambit.firebaseio.com",
+    "project_id": "watt-sambit",
+    "storage_bucket": "watt-sambit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824109865468:android:afde9db9ad3b2ae5",
+        "android_client_info": {
+          "package_name": "m.sambit.wattchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824109865468-2n6ijplcfche5384euna8kncdotvg8oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "m.sambit.wattchallenge",
+            "certificate_hash": "93198e129c63553513950d831ba087ad6b4c36a9"
+          }
+        },
+        {
+          "client_id": "824109865468-os7igfd1lckil903ddknov8b8r1eqf57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HXi7wVqbqsxmXwtxT0POlxGbAVjf47I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824109865468-os7igfd1lckil903ddknov8b8r1eqf57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
